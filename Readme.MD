@@ -15,7 +15,7 @@ For a mount to work in sandbox mode, the mount must be compiled and dropped into
 | Skyrim | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | [GitHub](https://github.com/cmg-divined/skyrim-sbox-mount) |
 
 ## Mount Notes
-
+- You are allowed to make pull requests on the main sbox repo to have your mount added into the game officially so keep that in mind.
 - s&box already includes native mounts for GoldSrc games, NS2, and Quake.
 - Half-Life 2 credits to Asphaltian. This mount is actually located in the native s&box folder since this is a fork.
 
