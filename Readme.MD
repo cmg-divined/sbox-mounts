@@ -10,9 +10,9 @@ For a mount to work in sandbox mode, the mount must be compiled and dropped into
 
 | Mount | Models | Textures | Materials | Skeleton | Sounds | Animations | Repository |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | --- |
-| Garry's Mod | ✓ | ✓ | ✓ | ✓ | X | X | [GitHub](https://github.com/cmg-divined/gmod-mount) |
-| Half-Life 2 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | [GitHub](https://github.com/Asphaltian/sbox-public/tree/source-mount) |
-| Skyrim | ✓ | ✓ | ✓ | ✓ | X | X | [GitHub](https://github.com/cmg-divined/skyrim-sbox-mount) |
+| Garry's Mod | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | [GitHub](https://github.com/cmg-divined/gmod-mount) |
+| Half-Life 2 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | [GitHub](https://github.com/Asphaltian/sbox-public/tree/source-mount) |
+| Skyrim | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | [GitHub](https://github.com/cmg-divined/skyrim-sbox-mount) |
 
 ## Mount Notes
 
