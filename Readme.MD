@@ -8,11 +8,17 @@ For a mount to work in sandbox mode, the mount must be compiled and dropped into
 
 ## Support Matrix
 
-| Mount | Models | Textures | Materials | Skeleton | Sounds | Animations | Repository | Notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Garry's Mod | Yes | Yes | Yes | Yes | No | No | [cmg-divined/gmod-mount](https://github.com/cmg-divined/gmod-mount) | Supports all currently planned asset types except sounds and animations. |
-| Half-Life 2 | Yes | Yes | Yes | Yes | Yes | Yes | [Asphaltian/sbox-public/tree/source-mount](https://github.com/Asphaltian/sbox-public/tree/source-mount) | Credits to Asphaltian. This mount is actually located in the native s&box folder since this is a fork. |
-| Skyrim | Yes | Yes | Yes | Yes | No | No | [cmg-divined/skyrim-sbox-mount](https://github.com/cmg-divined/skyrim-sbox-mount) | Supports all currently planned asset types except sounds and animations. |
+| Mount | Models | Textures | Materials | Skeleton | Sounds | Animations | Repository |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | --- |
+| Garry's Mod | ✓ | ✓ | ✓ | ✓ | X | X | [GitHub](https://github.com/cmg-divined/gmod-mount) |
+| Half-Life 2 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | [GitHub](https://github.com/Asphaltian/sbox-public/tree/source-mount) |
+| Skyrim | ✓ | ✓ | ✓ | ✓ | X | X | [GitHub](https://github.com/cmg-divined/skyrim-sbox-mount) |
+
+## Mount Notes
+
+- Garry's Mod supports all currently planned asset types except sounds and animations.
+- Half-Life 2 credits to Asphaltian. This mount is actually located in the native s&box folder since this is a fork.
+- Skyrim supports all currently planned asset types except sounds and animations.
 
 ## Supported Types
 
