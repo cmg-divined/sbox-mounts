@@ -16,6 +16,7 @@ For a mount to work in sandbox mode, the mount must be compiled and dropped into
 
 ## Mount Notes
 
+- s&box already includes native mounts for GoldSrc games, NS2, and Quake.
 - Half-Life 2 credits to Asphaltian. This mount is actually located in the native s&box folder since this is a fork.
 
 ## Supported Types
