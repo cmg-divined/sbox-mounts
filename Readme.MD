@@ -16,9 +16,7 @@ For a mount to work in sandbox mode, the mount must be compiled and dropped into
 
 ## Mount Notes
 
-- Garry's Mod supports all currently planned asset types except sounds and animations.
 - Half-Life 2 credits to Asphaltian. This mount is actually located in the native s&box folder since this is a fork.
-- Skyrim supports all currently planned asset types except sounds and animations.
 
 ## Supported Types
 
@@ -31,9 +29,9 @@ For a mount to work in sandbox mode, the mount must be compiled and dropped into
 
 ## Emulators
 
-| Project | Platform | Repository | Credits | Notes |
-| --- | --- | --- | --- | --- |
-| sGBA | Game Boy Advance | [Asphaltian/sbox-public/tree/source-mount](https://github.com/Asphaltian/sbox-public/tree/source-mount) | [Asphaltian](https://github.com/Asphaltian/sbox-public/commits?author=Asphaltian) | Game Boy Advance emulator for s&box. |
+| Project | Platform | Repository | Notes |
+| --- | --- | --- | --- |
+| sGBA | Game Boy Advance | [Asphaltian/sbox-public/tree/source-mount](https://github.com/Asphaltian/sbox-public/tree/source-mount) | Game Boy Advance emulator for s&box. |
 
 ## Contributing
 
