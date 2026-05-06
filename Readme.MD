@@ -32,7 +32,7 @@ For a mount to work in sandbox mode, the mount must be compiled and dropped into
 
 | Project | Platform | Repository | Notes |
 | --- | --- | --- | --- |
-| sGBA | Game Boy Advance | [Asphaltian/sbox-public/tree/source-mount](https://github.com/Asphaltian/sbox-public/tree/source-mount) | Game Boy Advance emulator for s&box. |
+| sGBA | Game Boy Advance | [Asphaltian/sgba](https://github.com/Asphaltian/sgba) | Game Boy Advance emulator for s&box. |
 
 ## Contributing
 
