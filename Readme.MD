@@ -13,11 +13,13 @@ For a mount to work in sandbox mode, the mount must be compiled and dropped into
 | Garry's Mod | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | [GitHub](https://github.com/cmg-divined/gmod-mount) |
 | Half-Life 2 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | [GitHub](https://github.com/Asphaltian/sbox-public/tree/source-mount) |
 | Skyrim | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | [GitHub](https://github.com/cmg-divined/skyrim-sbox-mount) |
+| The Sims 4 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | [Github](https://github.com/IdentityGames/sbox-ts4m) |
 
 ## Mount Notes
 - You are allowed to make pull requests on the main sbox repo to have your mount added into the game officially so keep that in mind.
 - s&box already includes native mounts for GoldSrc games, NS2, and Quake.
 - Half-Life 2 credits to Asphaltian. This mount is actually located in the native s&box folder since this is a fork.
+- The Sims 4: Extra's in json .txt files: OBJK (Object Catalog)
 
 ## Supported Types
 
